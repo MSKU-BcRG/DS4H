@@ -16,6 +16,9 @@ We will be updating all the content shortly
 Disaster Response Proposed Model
 ![TrustedDemandFastResponseSystem](https://github.com/user-attachments/assets/e6629629-d4ff-455f-ab96-903932d9147f)
 
+## Awards:
+<a id="1">[1]</a> 
+2020 - Second prize in the TUBİTAK 2242 University Students Research Project Competition in the field of “Information and Communication Technologies” in Türkiye. 
 
 ## Published Papers:
 <a id="1">[1]</a> 
