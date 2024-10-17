@@ -10,6 +10,7 @@ We will be updating all the content shortly
 
 
 Disaster Response Proposed Model
-![DisasterResponse_ProposedModel](https://github.com/user-attachments/assets/ae61ac6a-cb80-4690-a3ae-378522d3cb1f)
+![TrustedDemandFastResponseSystem](https://github.com/user-attachments/assets/e6629629-d4ff-455f-ab96-903932d9147f)
+
 
 
