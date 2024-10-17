@@ -1,0 +1,4 @@
+Installation Notes:
+- Qourum Nodes
+- IPFS
+- Decentralized Identity - Hyperledger Indy
