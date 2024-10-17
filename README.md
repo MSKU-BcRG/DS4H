@@ -1,6 +1,7 @@
 # DS4H
 Decentralized Solutions for Humanity (DS4H) is a blockchain research network.
 We aim a sustainable blockchain network which hosts decentralized solutions for humanity.
+Our hosts are located in four different cities (regions) of Anatolia. We also want to extend the nodes, please be in contact.
 
 ![DS4H](https://github.com/user-attachments/assets/400c6c50-8541-4652-ba56-d2038f231a39)
 
