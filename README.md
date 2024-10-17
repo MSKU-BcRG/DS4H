@@ -9,4 +9,5 @@ DS4H hosts
 We will be updating all the content shortly
 
 
-https://github.com/MSKU-BcRG/DS4H/blob/main/DisasterResponse_ProposedModel.png
+![Disaster Response Proposed Model]([http://url/to/img.png](https://github.com/MSKU-BcRG/DS4H/blob/main/DisasterResponse_ProposedModel.png))
+
