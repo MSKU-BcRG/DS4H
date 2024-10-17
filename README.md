@@ -7,3 +7,6 @@ DS4H hosts
 3. TD-FRS (Trusted demand and fast response system)
 
 We will be updating all the content shortly
+
+
+https://github.com/MSKU-BcRG/DS4H/blob/main/DisasterResponse_ProposedModel.png
