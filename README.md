@@ -17,4 +17,8 @@ Disaster Response Proposed Model
 ![TrustedDemandFastResponseSystem](https://github.com/user-attachments/assets/e6629629-d4ff-455f-ab96-903932d9147f)
 
 
-
+## Published Papers:
+<a id="1">[1]</a> 
+Karaarslan, E., Birim, M., & Ari, H. E. (2022). Forming a decentralized research network: DS4H. Turkish Journal of Electrical Engineering and Computer Sciences, 30(2), 436-450.
+<a id="1">[2]</a> 
+Karaarslan, E., Özkan, A., Dak, C., & Korkmaz, U. (2024). Towards Decentralized Resource Management For Disasters: NGO-RMSD. Facta Universitatis, Series: Electronics and Energetics, 37(1), 135-147.
