@@ -12,6 +12,10 @@ We are focused in disaster response. DS4H hosts:
 
 We will be updating all the content shortly
 
+Depo Zinciri (NGO-RMSD + PoC of warehouse management)
+
+<img width="802" alt="Depozinciri" src="https://github.com/user-attachments/assets/0411cb66-070c-4f78-b080-a23f5bbf5448">
+
 
 Disaster Response Proposed Model
 ![TrustedDemandFastResponseSystem](https://github.com/user-attachments/assets/e6629629-d4ff-455f-ab96-903932d9147f)
