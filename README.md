@@ -18,12 +18,17 @@ https://github.com/MSKU-BcRG/DS4H/tree/main/Projects/DisasterManagement
 ## Published Papers:
 <a id="1">[1]</a> 
 Işık, E., Birim, M., & Karaarslan, E. (2021, November). Chainex Decentralized Application Development & Test Workbench. In 2021 15th Turkish National Software Engineering Symposium (UYMS) (pp. 1-4). IEEE.
+(Available at: https://aperta.ulakbim.gov.tr/record/273951)
+
 
 <a id="2">[2]</a> 
 Birim, M., Arı, H. E., & Karaarslan, E. (2021). GoHammer blockchain performance test tool. Journal of Emerging Computer Technologies, 1(2), 31-33.
+(Available at: https://aperta.ulakbim.gov.tr/record/273953)
 
 <a id="3">[3]</a> 
 Karaarslan, E., Birim, M., & Ari, H. E. (2022). Forming a decentralized research network: DS4H. Turkish Journal of Electrical Engineering and Computer Sciences, 30(2), 436-450.
+(Available at: https://aperta.ulakbim.gov.tr/record/273886)
 
 <a id="4">[4]</a> 
 Karaarslan, E., Özkan, A., Dak, C., & Korkmaz, U. (2024). Towards Decentralized Resource Management For Disasters: NGO-RMSD. Facta Universitatis, Series: Electronics and Energetics, 37(1), 135-147.
+(Available at: https://zenodo.org/records/13755003)
