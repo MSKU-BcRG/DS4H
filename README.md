@@ -7,16 +7,15 @@ Our hosts are located in four different cities (regions) of Anatolia [3]. We als
 
 This network is primarly for research purposes and hosts several research projects.
 
-One main projct is disaster respons management: DS4H hosts:
+One main project is disaster management: DS4H hosts:
 1. NGO-RMSD (First phase of the project: Decentralized resource management system for disasters) (RETIRED)
 2. DEPO ZINCIRI (Second phase of the project: Update of the current and the PoC of warehouse management) (ACTIVE)
 3. TD-FRS (Trusted demand and fast response system) (ACTIVE)
 
 We will be updating all the content shortly
 
-Second Phase: Depo Zinciri (NGO-RMSD + PoC of warehouse management)
-
-<img width="802" alt="Depozinciri" src="https://github.com/user-attachments/assets/0411cb66-070c-4f78-b080-a23f5bbf5448">
+% Second Phase: Depo Zinciri (NGO-RMSD + PoC of warehouse management)
+% <img width="802" alt="Depozinciri" src="https://github.com/user-attachments/assets/0411cb66-070c-4f78-b080-a23f5bbf5448">
 
 
 Third Phase: TD-FRS (Trusted demand and fast response system) Proposed Model
