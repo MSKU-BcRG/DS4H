@@ -1,4 +1,4 @@
-One main project is disaster management: DS4H hosts:
+Disaster management has three phases till now:
 1. NGO-RMSD (First phase of the project: Decentralized resource management system for disasters) (RETIRED)
 2. DEPO ZINCIRI (Second phase of the project: Update of the current and the PoC of warehouse management) (ACTIVE)
 3. TD-FRS (Trusted demand and fast response system) (ACTIVE)
