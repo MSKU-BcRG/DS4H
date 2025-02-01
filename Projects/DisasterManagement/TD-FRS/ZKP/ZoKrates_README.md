@@ -10,26 +10,9 @@ docker run -ti zokrates/zokrates /bin/bash
 ```
 This command starts the ZoKrates Docker container and opens a bash terminal where you can use ZoKrates commands.
 
-## Create a New Project Directory
+## Create a New Project Directory and ZoKrates Circuit File
 
-```bash
-mkdir zkp-circuit
-```
-This command creates a new directory named `zkp-circuit` where ZoKrates circuits will be written.
-
-## Navigate into the Project Directory
-
-```bash
-cd zkp-circuit
-```
-This command navigates into the newly created `zkp-circuit` directory.
-
-## Create ZoKrates Circuit File
-
-```bash
-touch circuit.zok
-```
-This command creates an empty `circuit.zok` file where you will define your ZoKrates circuit.
+Create a directory called zkp-circuit. Then create a ZoKrates circuit file (for example: circuit.zok)
 
 ## Write the Circuit
 
@@ -39,13 +22,6 @@ echo 'def main(private field memberId, field orgId) -> bool {
 }' > circuit.zok
 ```
 This command writes a simple ZoKrates circuit in the `circuit.zok` file. The circuit checks if the `memberId` equals the `orgId` and returns `true` if they are equal.
-
-## View the Circuit
-
-```bash
-cat circuit.zok
-```
-This command displays the content of the `circuit.zok` file in the terminal so you can review the code you wrote.
 
 ## Compile the Circuit
 
